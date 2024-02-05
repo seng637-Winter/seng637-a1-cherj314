@@ -73,3 +73,8 @@ The team was divided into two groups, one of two people and one of three people.
 
 [6 Difficulties encountered, challenges overcome, and lessons
 learned    1](#_Toc439194682)
+
+It was difficult to coordinate the complex sequence of tasks among a large group, but through effective communication we were able to come together and work as a team to complete the assignment. We learned a lot about the software testing process and will make improvements to future bug reports and testing plans that we create. One large learning was that screenshots of bugs could be very helpful when revisiting bug reports after some time. 
+
+The lab was a great exercise from which we learned a lot. The lab document itself was perhaps a bit too long and was difficult to read at first. We think that shortening the document and summarising some of the information within could make it more digestible in a short period of time. 
+
