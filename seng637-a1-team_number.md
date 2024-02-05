@@ -62,7 +62,7 @@ Each pair in the team reviewed the defect reports created by the other pair and 
 
 The first group could have benefited from exploring more edge cases/abnormal inputs during exploratory testing. A lot of focus was on the main happy paths, which overlapped with the scripted testing performed later, leading to redundancy in testing and reduced breadth. They could also have included information about the manual test script being followed in the report so it could be referred back to at a later date.
 
-The second pair initially documented too many bugs, resulting in overlapping or duplicate bugs which needed to be removed in later review. By investigating the root causes a bit more thoroughly the bugs could have been combined earlier, reducing clutter. They also could have had more detailed report titles to improve clarity. Details of the bug's initial state missing from the bug reports were also added.
+The second pair initially documented too many bugs, resulting in overlapping or duplicate bugs that needed to be removed in a later review. By investigating the root causes a bit more thoroughly, the bugs could have been combined earlier, reducing clutter. They also could have had more detailed report titles to improve clarity. Details of the bug's initial state missing from the bug reports were also added.
 
 The reports of both pairs could have been further improved with the inclusion of screenshots or videos of the bug in action. This would improve the clarity of the report and help convey the details to any developers tasked with addressing it. The feature affected by each bug had to be added later for every report in both groups as well.
 
@@ -74,6 +74,6 @@ The team was divided into two groups, one of two people and one of three people.
 [6 Difficulties encountered, challenges overcome, and lessons
 learned    1](#_Toc439194682)
 
-It was difficult to coordinate the complex sequence of tasks among a large group, but through effective communication, we were able to come together and work as a team to complete the assignment. We learned a lot about the software testing process and will make improvements to future bug reports and testing plans that we create. One large learning was that screenshots of bugs could be very helpful when revisiting bug reports after some time. 
+It was difficult to coordinate the complex sequence of tasks among a large group, but through effective communication, we were able to come together and work as a team to complete the assignment. We learned a lot about the software testing process and will make improvements to future bug reports and testing plans that we create. One large lesson learned was that screenshots of bugs could be very helpful when revisiting bug reports after some time. 
 
-The lab was a great exercise from which we learned a lot. The lab document itself was perhaps a bit too long and was difficult to read at first. We think that shortening the document and summarising some of the information within could make it more digestible in a short period of time. 
+The lab was a great exercise, from which we learned a lot. The lab document itself was perhaps a bit too long and was difficult to read at first. We think that shortening the document and summarising some of the information within could make it more digestible in a short period of time. 
